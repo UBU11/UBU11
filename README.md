@@ -4,7 +4,7 @@
 </p>
 
 <!-- Greeting -->
-<h1 align="center">Hi there, I'm Uvais J! 👋</h1>
+<h1 align="center">Hi there, I'm UBU! 👋</h1>
 <p align="center">Front-End Developer | MERN Stack Enthusiast | Open Source Contributor</p>
 
 <!-- GitHub Stats -->
@@ -31,7 +31,3 @@
     - Exploring New things 🚀
 
 
-<!---
-UBU11/UBU11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
