@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-  Hi there, I'm Uvais J!
+  Hi there, I'm UBU (Uvais J)!
 </h1>
 <p align="center">
   <a href="https://github.com/uvais-j">
