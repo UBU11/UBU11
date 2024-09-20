@@ -1,19 +1,21 @@
-<!-- Profile Banner -->
+
 <p align="center">
-  <img src="https://your-banner-link-here.com" alt="Uvais J GitHub Profile Banner" width="800px">
+  <img src="https://www.canva.com/design/DAFzqqewx08/Gea01m2V6v4eUhmq5wr8ww/view?utm_content=DAFzqqewx08&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Uvais J GitHub Profile Banner" width="1000px">
 </p>
 
-<!-- Greeting -->
-<h1 align="center">Hi there, I'm UBU! 👋</h1>
-<p align="center">Front-End Developer | MERN Stack Enthusiast | Open Source Contributor</p>
 
-<!-- GitHub Stats -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+  Hi there, I'm Uvais J!
+</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uvais-j&label=Profile%20views&color=0e75b6&style=flat" alt="Uvais J" />
+  <a href="https://github.com/uvais-j">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300F700&size=22&duration=3000&center=true&lines=Frontend+Developer;MERN+Stack+Learner;Cloud+Security+Explorer;Anime+Fan;Open+Source+Enthusiast" alt="Typing SVG">
+  </a>
 </p>
 
-<!-- About Me -->
 ## 🚀 About Me
+
 ```yaml
   name: Uvais J
   role: Front-End Developer
@@ -27,7 +29,5 @@
   hobbies:
     - Fitness 💪
     - Anime 🎥
-    - PC games ♟️
-    - Exploring New things 🚀
-
-
+    - PC Games 🕹️
+    - Exploring new things 🚀
