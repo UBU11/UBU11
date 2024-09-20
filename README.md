@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAFzqqewx08/Gea01m2V6v4eUhmq5wr8ww/view?utm_content=DAFzqqewx08&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Uvais J GitHub Profile Banner" width="1000px">
+  <img src="https://i.redd.it/czpc7vw5jeh11.png" alt="Uvais J GitHub Profile Banner" width="1000px">
 </p>
 
 
