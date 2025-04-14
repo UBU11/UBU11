@@ -6,7 +6,6 @@
 <h1 align="center">HEHE Mee! UBU</h1>
 <h3 align="center">I’m curious about new technology and enjoy learning about human behavior</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubu11&label=Profile%20views&color=0e75b6&style=flat" alt="ubu11" /> </p>
 
 - 🌱 I’m currently learning **Flutter & Firebase Full-Stack Web Development Basics of AI/ML & Cybersecurity Human Psychology & Philosophy**
 
