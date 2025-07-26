@@ -7,9 +7,7 @@
 <h3 align="center">I’m curious about new technology and enjoy learning about human behavior</h3>
 
 
-- 🌱 I’m currently learning **Flutter & Firebase Full-Stack Web Development Basics of AI/ML & Cybersecurity Human Psychology & Philosophy**
-
-- 💬 Ask me about **Philosophy, Web Development, Flutter, and basic AI/ML**
+- 🌱 I’m currently learning ** Next js & SupaBase(including postgresql) Full-Stack Web Development Basics of AI/ML , Human Psychology & Philosophy**
 
 - 📫 How to reach me **uvaisubu11@gmail.com / uvaisqarnayn@gmail.com**
 
