@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **uvaisubu11@gmail.com / uvaisqarnayn@gmail.com**
 
-- ⚡ Fun fact **I drink tea at least 8 times a day 💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
