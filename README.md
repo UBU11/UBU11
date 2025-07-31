@@ -1,7 +1,7 @@
 
 <p align="center">
-<!--   <img src="https://i.redd.it/czpc7vw5jeh11.png" alt="Uvais J GitHub Profile Banner" width="1000px"> -->
-<iframe src = "https://tenor.com/view/gokugtz-saiyangokugtz-gtzgoku-dragonballgtz-gokukrilin-gif-8521275030495215283"></iframe>
+  <img src="https://i.redd.it/czpc7vw5jeh11.png" alt="Uvais J GitHub Profile Banner" width="1000px">
+
 </p>
 
 <h1 align="center">HEHE Mee! UBU</h1>
