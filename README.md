@@ -1,7 +1,7 @@
 
 <p align="center">
 <!--   <img src="https://i.redd.it/czpc7vw5jeh11.png" alt="Uvais J GitHub Profile Banner" width="1000px"> -->
-  <div class="tenor-gif-embed" data-postid="8521275030495215283" data-share-method="host" data-aspect-ratio="3" data-width="100%"><a href="https://tenor.com/view/gokugtz-saiyangokugtz-gtzgoku-dragonballgtz-gokukrilin-gif-8521275030495215283">Gokugtz Saiyangokugtz Sticker</a>from <a href="https://tenor.com/search/gokugtz-stickers">Gokugtz Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src = "https://tenor.com/view/gokugtz-saiyangokugtz-gtzgoku-dragonballgtz-gokukrilin-gif-8521275030495215283"></iframe>
 </p>
 
 <h1 align="center">HEHE Mee! UBU</h1>
