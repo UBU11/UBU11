@@ -1,8 +1,2 @@
 
-<p align="center">
-  <img src="https://i.redd.it/czpc7vw5jeh11.png" alt="Uvais J GitHub Profile Banner" width="1000px">
-
-</p>
-
-<h1 align="center">HEHE Mee! UBU</h1>
-
+![Metrics](https://metrics.lecoq.io/UBU11?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=Jupyter%20Notebook%2C%20HTML%2C%20CSS&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
